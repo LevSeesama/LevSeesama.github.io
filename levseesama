@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8">
+  <head>
+   <link rel="stylesheet" href="usr/src/app/style.css">
+    <title>Лев Тотсамый</title>
+    <style>
+   
+p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+h2, h3 {
+  font-weight: 400;
+  margin: 0;
+  
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+  border-bottom: 1px grey solid;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 30px;
+  margin-bottom 5px;
+}
+
+
+#header {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.main_section {
+  margin-bottom: 0px;
+}
+.textstuff {
+  color: gray;
+  margin-bottom: 10px;
+  font-size: 12px
+}
+h2, h4, p, ul {
+  margin: 5px;
+}
+.main_section_item {
+  margin: 0;
+}
+.testing {
+  margin 0;
+}
+#footer {
+  margin-top: 40px;
+  text-align: center;
+  margin: 0;
+  color: coral;
+}
+      </style>
+  </head>
+  <body>
+     <div id="header">
+    <h1 > <u>Лев Тотсамый</u></h1>
+    <h2>(One Man Rock Band)</h2>
+    <p>
+      <a href="mailto:doingyourmom@longdick.style">doingyourmom@longdick.style</a>,
+      <a href="https://instagram.com/lev_seesama">https://instagram.com/lev_seesama</a>
+    </p>
+     </div>
+	 <div id="main">
+     <div class="textstuff">
+<i>Я первый раз пишу что-то в HTML, и зараза допишу всё, что я хотел. Это сложно и не понятно, но я допишу. И буду доволен собой, хоть для тех кто шарит, тут всё будет примитивно.</i> 
+</div>
+<div class="main_section">
+<h2 >Что я умею</h2>
+<div class="testing">
+  <p>
+    <h4>
+  Много и бессмысленно говорить:
+  </h4> </div>
+ <p style=font-size:12px> <i>(Лет с 13ти)</i></p>
+  <ul>
+  <li>Про то, в чём неплохо расзбираюь</li>
+  <li>Про то, в чём плохо разбираюсь</li>
+  <li>Про то, о чём когда-то вроде слышал</li>
+</ul>
+</p>
+ </div>
+ </div>
+ <div class="main_section_item">
+ <p><h4>
+  Думать что свободен:
+  </h4>
+  <p style=font-size:12px> <i>(Лет с 13ти)</i></p>
+  <ul>
+  <li>В своём выборе</li>
+  <li>В этом государстве</li>
+  <li>В своей голове</li>
+</ul>
+</p>
+<div class="main_section_item">
+<h4>Где научился?</h4>
+  <p>
+    
+   <p style=font-size:12px> <i>(Почти с рождения)</i></p>
+  <p>
+  На улицах <br>
+  Дома у мамы и папы<br>
+  Бесплатные пиздюля в школе и на районе<br>
+
+</p>
+</div>
+</div>
+<div class="main_section">
+<h2>Другие навыки</h2>
+  <ul>
+  <li>Я был бы крутым драконом</li>
+  <li>Огромный член и бог секса (нет)</li>
+  <li>Знаю наизусть песни <a href="https://ru.wikipedia.org/wiki/Anacondaz"> Anacondaz</a>(не все)</li>
+  <li>Прекрасное остроумие и чувство юмора (спорно)</li>
+</ul> 
+</div>
+</div>
+</div>
+
+<div id="footer">
+  <div class="main_footer">
+ <h3>Лев Тотсамый</h3>
+ </div>
+    <p>Офигеть, у меня получилось...</p>
+    <p>
+      <a href="mailto:doingyourmom@longdick.style">doingyourmom@longdick.style</a>,
+    </div>
+    </p>
+    </div>
+
+  </body>
+</html>
